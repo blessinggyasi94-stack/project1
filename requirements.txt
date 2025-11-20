@@ -1,0 +1,11 @@
+# Python Projects Collection - Requirements
+# 
+# This project uses only Python standard library modules.
+# No external dependencies are required.
+#
+# Required Python version: 3.6 or higher
+#
+# Standard library modules used:
+# - random (for number_guessing_game.py)
+# - built-in functions (input, print, int, float, etc.)
+
